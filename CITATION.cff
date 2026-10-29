@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the article it accompanies."
+title: "Code and data for the evidence-state model of vulnerability exploitation"
+version: 2.1.0
+date-released: "2026-10-29"
+repository-code: "https://github.com/datch1588/evidence-state-model"
+url: "https://github.com/datch1588/evidence-state-model"
+license:
+  - MIT
+  - CC-BY-4.0
+authors:
+  - family-names: Lande
+    given-names: Dmytro V.
+    orcid: "https://orcid.org/0000-0003-3945-1178"
+    affiliation: "National Technical University of Ukraine \"Igor Sikorsky Kyiv Polytechnic Institute\""
+  - family-names: Kuzminskyi
+    given-names: Viktor S.
+    orcid: "https://orcid.org/0009-0009-2335-6089"
+    affiliation: "National Technical University of Ukraine \"Igor Sikorsky Kyiv Polytechnic Institute\""
+keywords:
+  - vulnerability exploitation
+  - evidence state
+  - extraction error rate
+  - CTINexus
+  - false stage elevation
+  - SSVC
+  - Vulnrichment
+preferred-citation:
+  type: article
+  title: "Модель стану свідчень про експлуатацію вразливостей та межі хибного підвищення стадії"
+  authors:
+    - family-names: Lande
+      given-names: Dmytro V.
+    - family-names: Kuzminskyi
+      given-names: Viktor S.
+  year: 2026
+  languages:
+    - uk

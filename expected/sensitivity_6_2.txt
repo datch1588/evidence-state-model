@@ -1,0 +1,14 @@
+population below S3: 76714
+one group, p = 1e-3
+  base rule, bound on expected false S3: 76.7
+  p needed for bound <= 10: 1.304e-04
+small frequencies (zero errors, 95% one-sided)
+  upper bound after 2995 groups: 0.0009997
+  groups needed for 0.00013: 23043
+two-group rule with one group, p = 1e-3, eta = 0.1
+  bound on expected false S3: 7.67
+three groups, p = 1e-3
+  base rule: 230.1
+  two-group rule, c = 0, eta = 0: 0.23
+  two-group rule, c = 0.1, eta = 0: 23.22
+  two-group rule, c = 0, eta = 0.1: 23.24

@@ -1,0 +1,3 @@
+# Keep every file byte for byte as committed: SHA256SUMS checks them,
+# and data/ctinexus_candidates.csv uses CRLF line endings.
+* -text

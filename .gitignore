@@ -1,0 +1,7 @@
+.venv/
+out.txt
+__pycache__/
+vr_data/
+out_vr.txt
+results.json
+out_*.txt

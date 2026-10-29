@@ -1,0 +1,11 @@
+files 149 pairs sharing an 8-gram 10
+1.000  107 pensive-ursa-uses-upgraded-kazuar-backdoor.json  |  108 pensive-ursa-uses-upgraded-kazuar-backdoor_1.json  identical=True
+0.217  100 north-korea-debuts-spectralblur-malware-amid-macos-onslaught.json  |  130 spectralblur-new-macos-backdoor-threat.json  identical=False
+0.025  84 microsoft-warns-of-new-falsefont.json  |  104 peach-sandstorm-password-spray-campaigns-enable-intelligence-collection-at-high-value-targets.json  identical=False
+0.017  139 uac-0050-group-using-new-phishing.json  |  140 uac-0099-using-winrar-exploit-to-target.json  identical=False
+0.013  68 in-depth-look-at-iranian-apt-muddywater.json  |  72 iran-apt-seedworm-africa-telecoms.json  identical=False
+0.012  61 google-tag-coldriver-russian-phishing-malware.json  |  92 new-iranian-apt-data-extraction-tool.json  identical=False
+0.011  117 ransomware-spotlight-lockbit.json  |  136 threat-recap-darkside-crysis-negasteal-coinminer.json  identical=False
+0.008  34 defending-new-vectors-threat-actors-attempt-sql-server-to-cloud-lateral-movement.json  |  45 fake-cve-2023-40477-poc-hides-venomrat.json  identical=False
+0.006  93 new-jinxloader-targeting-users-with.json  |  97 new-rugmi-malware-loader-surges-with.json  identical=False
+0.006  98 new-sneaky-xamalicious-android-malware.json  |  140 uac-0099-using-winrar-exploit-to-target.json  identical=False

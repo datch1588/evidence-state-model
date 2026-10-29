@@ -1,0 +1,6 @@
+candidates 76754; publication dates 2025-01-01..2026-06-13; t = d0 + 7 days: mismatches 0
+in KEV already at t: 0
+KEV-90 (added to KEV in (t, t + 90 days]): 92; label recomputed from the KEV date: mismatches 0
+stage at t: S1 75384, S2 1330, S3 40
+KEV-90 by stage: S1 56, S2 33, S3 3
+below S3 at t (Section 5.4): 76714
